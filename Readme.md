@@ -11,4 +11,6 @@ a2x + b2y + c2 = 0
 ```
  format and find the intersection point by solving the values of x and y from the two lines equations:
 ![](http://www.ambrsoft.com/MathCalc/Line/TwoLinesIntersection/Eq/eq5.png)
-finally, I checked for points that are in the renter range.
+
+finally, I checked for points that are 
+in the renter range.
