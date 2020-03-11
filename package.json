@@ -1,0 +1,15 @@
+{
+  "name": "line",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "amin vafaei",
+  "license": "ISC",
+  "dependencies": {
+    "algebra.js": "^0.2.6",
+    "mathjs": "^6.6.1"
+  }
+}
